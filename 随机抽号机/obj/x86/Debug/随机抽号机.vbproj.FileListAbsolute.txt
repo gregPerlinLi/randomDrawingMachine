@@ -1,0 +1,105 @@
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Documents and Settings\user\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\bin\Debug\随机抽号机.exe
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\bin\Debug\随机抽号机.pdb
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\bin\Debug\随机抽号机.xml
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\obj\x86\Debug\随机抽号机.exe
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\obj\x86\Debug\随机抽号机.xml
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\obj\x86\Debug\随机抽号机.pdb
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\bin\Debug\随机抽号机.exe.manifest
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\bin\Debug\随机抽号机.application
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\obj\x86\Debug\随机抽号机.exe.manifest
+D:\浩浩\数学\vb\随机抽号软件\随机抽号机\随机抽号机\obj\x86\Debug\随机抽号机.application
+D:\浩浩\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.vbprojResolveAssemblyReference.cache
+D:\浩浩\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+D:\浩浩\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\浩浩\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\浩浩\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.vbproj.GenerateResource.Cache
+D:\浩浩\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.vbproj.CoreCompileInputs.cache
+D:\浩浩\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.exe
+D:\浩浩\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.xml
+D:\浩浩\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.pdb
+D:\浩浩\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.exe.manifest
+D:\浩浩\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.application
+D:\浩浩\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.exe
+D:\浩浩\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.pdb
+D:\浩浩\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.xml
+D:\浩浩\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.exe.manifest
+D:\浩浩\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.application
+I:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.exe.manifest
+I:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.application
+I:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.exe
+I:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.pdb
+I:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.xml
+I:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.vbprojResolveAssemblyReference.cache
+I:\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+I:\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.Form1.resources
+I:\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.Resources.resources
+I:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.vbproj.GenerateResource.Cache
+I:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.vbproj.CoreCompileInputs.cache
+I:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.exe.manifest
+I:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.application
+I:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.exe
+I:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.xml
+I:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.pdb
+L:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.exe
+L:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.xml
+L:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.pdb
+L:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.exe.manifest
+L:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.application
+L:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.exe
+L:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.pdb
+L:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.xml
+L:\1随机抽号机1\随机抽号机\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+L:\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.Form1.resources
+L:\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.Resources.resources
+L:\1随机抽号机1\随机抽号机\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\1随机抽号机1\随机抽号机\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.exe.manifest
+L:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.application
+F:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.exe
+F:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.xml
+F:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.pdb
+F:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.exe.manifest
+F:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.application
+F:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.exe
+F:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.pdb
+F:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.xml
+F:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.vbprojResolveAssemblyReference.cache
+F:\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+F:\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.vbproj.GenerateResource.Cache
+F:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.exe.manifest
+F:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.application
+E:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.exe.manifest
+E:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.application
+E:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.exe
+E:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.pdb
+E:\1随机抽号机1\随机抽号机\bin\Debug\随机抽号机.xml
+E:\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+E:\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\1随机抽号机1\随机抽号机\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.vbproj.GenerateResource.cache
+E:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.vbproj.CoreCompileInputs.cache
+E:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.exe.manifest
+E:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.application
+E:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.exe
+E:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.xml
+E:\1随机抽号机1\随机抽号机\obj\x86\Debug\随机抽号机.pdb
